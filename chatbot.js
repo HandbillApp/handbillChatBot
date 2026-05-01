@@ -1,0 +1,9 @@
+<script
+    src="https://app.wonderchat.io/scripts/wonderchat-seo.js"
+    data-name="wonderchat-seo"
+    data-address="app.wonderchat.io"
+    data-id="cmomz3wgk0ce86pdc7amd6mrj"
+    data-widget-size="normal"
+    data-widget-button-size="normal"
+    defer
+  ></script>
